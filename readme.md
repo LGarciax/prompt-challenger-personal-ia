@@ -121,3 +121,5 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+- [Prompt Proposto](./Prompt/prompt.md)
